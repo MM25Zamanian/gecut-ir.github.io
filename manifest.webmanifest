@@ -1,0 +1,36 @@
+{
+  "dir": "rtl",
+  "lang": "fa",
+  "name": "Al-Quran",
+  "short_name": "القرآن",
+  "description": "Quran app by Codinex",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#127e3b",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/icon-192x192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/manifest/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/icon-512x512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
