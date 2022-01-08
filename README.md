@@ -1,1 +1,0 @@
-# gecut-ir.github.io
